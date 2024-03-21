@@ -10,8 +10,7 @@ This repository contains PDFs of Hume's published research. The aim is to provid
 ## Resources
 
 - **Learn More**: For in-depth information about the science behind Hume, visit our [website](https://hume.ai/science/).
-- **Documentation**: Our detailed [documentation](https://dev.hume.ai/docs/about-the-science) offers insights into our research methodologies and principles.
-- **Publications**: Access the full list of our publications, including BibTeX formatted citations, at [Hume Publications](https://dev.hume.ai/docs/published).
+- **Documentation**: Our detailed [documentation](https://dev.hume.ai/docs/resources/science) offers insights into our research methodologies and principles.
 
 ## Copyright Disclaimer
 
